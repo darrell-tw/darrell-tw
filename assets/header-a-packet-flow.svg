@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 880 200" width="880" height="200" role="img" aria-label="Darrell Wang - Martech and Automation Engineer">
+<style>.at{font-family:ui-monospace, 'SF Mono', 'JetBrains Mono', 'IBM Plex Mono', Menlo, Consolas, monospace;}</style>
+<rect width="880" height="200" rx="14" fill="#0D1117"/>
+<text class="at" x="32" y="52" fill="#E6EDF3" font-size="27" font-weight="700" letter-spacing="4">DARRELL WANG</text>
+<text class="at" x="32" y="76" fill="#8B949E" font-size="13" letter-spacing="1.2">Martech &amp; Automation Engineer  ·  Taipei</text>
+<text class="at" x="848" y="52" fill="#E08A3C" font-size="12" text-anchor="end" letter-spacing="2">PIPELINE ACTIVE</text>
+<rect x="32" y="112" width="130" height="56" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+<rect x="32" y="112" width="130" height="56" rx="10" fill="none" stroke="#E08A3C" stroke-width="1.4" opacity="0"><animate attributeName="opacity" values="0;0.95;0;0" keyTimes="0;0.05;0.22;1" dur="4.0s" begin="0.0s" repeatCount="indefinite"/></rect>
+<text class="at" x="97.0" y="136" fill="#E6EDF3" font-size="12" font-weight="600" text-anchor="middle" letter-spacing="1.6">COLLECT</text>
+<text class="at" x="97.0" y="154" fill="#8B949E" font-size="10.5" text-anchor="middle">GA4 · GTM</text>
+<rect x="202" y="112" width="130" height="56" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+<rect x="202" y="112" width="130" height="56" rx="10" fill="none" stroke="#E08A3C" stroke-width="1.4" opacity="0"><animate attributeName="opacity" values="0;0.95;0;0" keyTimes="0;0.05;0.22;1" dur="4.0s" begin="0.8s" repeatCount="indefinite"/></rect>
+<text class="at" x="267.0" y="136" fill="#E6EDF3" font-size="12" font-weight="600" text-anchor="middle" letter-spacing="1.6">NORMALIZE</text>
+<text class="at" x="267.0" y="154" fill="#8B949E" font-size="10.5" text-anchor="middle">n8n · Python</text>
+<rect x="372" y="112" width="130" height="56" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+<rect x="372" y="112" width="130" height="56" rx="10" fill="none" stroke="#E08A3C" stroke-width="1.4" opacity="0"><animate attributeName="opacity" values="0;0.95;0;0" keyTimes="0;0.05;0.22;1" dur="4.0s" begin="1.6s" repeatCount="indefinite"/></rect>
+<text class="at" x="437.0" y="136" fill="#E6EDF3" font-size="12" font-weight="600" text-anchor="middle" letter-spacing="1.6">DECIDE</text>
+<text class="at" x="437.0" y="154" fill="#8B949E" font-size="10.5" text-anchor="middle">LLM agents</text>
+<rect x="542" y="112" width="130" height="56" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+<rect x="542" y="112" width="130" height="56" rx="10" fill="none" stroke="#E08A3C" stroke-width="1.4" opacity="0"><animate attributeName="opacity" values="0;0.95;0;0" keyTimes="0;0.05;0.22;1" dur="4.0s" begin="2.4000000000000004s" repeatCount="indefinite"/></rect>
+<text class="at" x="607.0" y="136" fill="#E6EDF3" font-size="12" font-weight="600" text-anchor="middle" letter-spacing="1.6">ACT</text>
+<text class="at" x="607.0" y="154" fill="#8B949E" font-size="10.5" text-anchor="middle">LINE · Slack</text>
+<rect x="712" y="112" width="130" height="56" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+<rect x="712" y="112" width="130" height="56" rx="10" fill="none" stroke="#E08A3C" stroke-width="1.4" opacity="0"><animate attributeName="opacity" values="0;0.95;0;0" keyTimes="0;0.05;0.22;1" dur="4.0s" begin="3.2s" repeatCount="indefinite"/></rect>
+<text class="at" x="777.0" y="136" fill="#E6EDF3" font-size="12" font-weight="600" text-anchor="middle" letter-spacing="1.6">PROVE</text>
+<text class="at" x="777.0" y="154" fill="#8B949E" font-size="10.5" text-anchor="middle">Looker</text>
+<line x1="162" y1="140.0" x2="202" y2="140.0" stroke="#30363D" stroke-width="1.5" stroke-dasharray="3 4"/>
+<circle r="3.4" cy="140.0" cx="162" fill="#E08A3C" opacity="0"><animate attributeName="cx" values="162;162;202;202" keyTimes="0;0.0000;0.1650;1" dur="4.0s" calcMode="linear" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.0000;0.1650;1" dur="4.0s" repeatCount="indefinite"/></circle>
+<line x1="332" y1="140.0" x2="372" y2="140.0" stroke="#30363D" stroke-width="1.5" stroke-dasharray="3 4"/>
+<circle r="3.4" cy="140.0" cx="332" fill="#E08A3C" opacity="0"><animate attributeName="cx" values="332;332;372;372" keyTimes="0;0.2000;0.3650;1" dur="4.0s" calcMode="linear" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2000;0.3650;1" dur="4.0s" repeatCount="indefinite"/></circle>
+<line x1="502" y1="140.0" x2="542" y2="140.0" stroke="#30363D" stroke-width="1.5" stroke-dasharray="3 4"/>
+<circle r="3.4" cy="140.0" cx="502" fill="#E08A3C" opacity="0"><animate attributeName="cx" values="502;502;542;542" keyTimes="0;0.4000;0.5650;1" dur="4.0s" calcMode="linear" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.4000;0.5650;1" dur="4.0s" repeatCount="indefinite"/></circle>
+<line x1="672" y1="140.0" x2="712" y2="140.0" stroke="#30363D" stroke-width="1.5" stroke-dasharray="3 4"/>
+<circle r="3.4" cy="140.0" cx="672" fill="#E08A3C" opacity="0"><animate attributeName="cx" values="672;672;712;712" keyTimes="0;0.6000;0.7650;1" dur="4.0s" calcMode="linear" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.6000;0.7650;1" dur="4.0s" repeatCount="indefinite"/></circle>
+<circle cx="777.0" cy="190" r="0" fill="none" stroke="#3FB950" stroke-width="1.5"><animate attributeName="r" values="2;2;16;16" keyTimes="0;0.8;0.98;1" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;0.9;0" keyTimes="0;0.8;0.85;1" dur="4s" repeatCount="indefinite"/></circle>
+</svg>
